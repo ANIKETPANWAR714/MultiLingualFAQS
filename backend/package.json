@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@admin-bro/express": "^3.1.0",
+    "@google-cloud/translate": "^8.5.0",
+    "admin-bro": "^4.0.1",
+    "admin-bro-mongoose": "^0.5.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "google-translator": "^1.0.1",
+    "googletrans": "^1.0.21",
+    "mongoose": "^8.9.5",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.9",
+    "redis": "^4.7.0",
+    "tslib": "^2.8.1"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
